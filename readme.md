@@ -1,14 +1,14 @@
-# 01 HTML, CSS, and Git: Code Refactor Challenge
+# 01 HTML, CSS, and Git: Code Refactor Project
 
 ## Description
-### What this does
+### What This Project Does
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-### Technology used
+### Technology Used
 
 
 * HTML
@@ -53,4 +53,4 @@ THEN I find a concise, descriptive title
 
 * [How to write a good readme file](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 * [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-*
+* [Readme example](https://github.com/larymak/Html-Css-Recap)
