@@ -1,7 +1,7 @@
-# 01 HTML, CSS, and Git: Code Refactor Project
+# 01 HTML, CSS, and Git: Code Refactor Website
 
 ## Description
-### What This Project Does
+### What This  Does
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -33,7 +33,7 @@ SO THAT our own site is optimized for search engines
 
 
 ## Refactor Challenges to Optimization
-### Features in this Project
+### Features in this Website
 ```
 GIVEN a webpage meets accessibility standards 
 WHEN I view the source code
